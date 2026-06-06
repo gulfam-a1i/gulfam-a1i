@@ -8,7 +8,9 @@
 
 I build modern mobile apps, web platforms, and AI-powered software solutions focused on real-world problem solving, clean user experience, and scalable development.
 
-Based in **Vehari, Pakistan**, currently pursuing **Bachelor of Software Engineering** from **COMSATS University Islamabad, Vehari Campus**.
+📍 Vehari, Pakistan
+🎓 Bachelor of Software Engineering — COMSATS University Islamabad, Vehari Campus
+🌐 Portfolio: [www.gulfamali.me](https://www.gulfamali.me)
 
 </div>
 
@@ -59,6 +61,7 @@ Based in **Vehari, Pakistan**, currently pursuing **Bachelor of Software Enginee
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### AI & Integrations
@@ -272,21 +275,14 @@ A measurement utility application built for practical Android-based measurement 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gulfamali16&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Gulfam Ali GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gulfamali16&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" alt="Gulfam Ali GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gulfamali16&theme=chartreuse-dark&hide_border=true" alt="Gulfam Ali GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulfamali16&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Gulfam Ali Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulfamali16&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+<br/>
+<br/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gulfamali16&theme=matrix&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img width="70%" src="https://streak-stats.demolab.com?user=gulfamali16&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideNums=00FF66&currStreakNum=00FF66" alt="Gulfam Ali GitHub Streak" />
 
 </div>
 
@@ -318,14 +314,25 @@ Video Editing      ████████████
 
 ---
 
-## 📫 Contact & Connect
+## 🌐 Portfolio & Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-gulfamali16-121011?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gulfamali16)
-[![Email](https://img.shields.io/badge/Email-gulfamoffi62%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gulfamoffi62@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gulfam_Ali-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge\&logo=googlechrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
+<a href="https://www.gulfamali.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-www.gulfamali.me-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+</a>
+
+<a href="https://github.com/gulfamali16" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-gulfamali16-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+
+<a href="mailto:gulfamoffi62@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gulfamoffi62%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gulfam_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
