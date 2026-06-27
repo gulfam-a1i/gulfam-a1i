@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gulfamali16/myimages/main/uploads/2026/06/43915a_ChatGPT_Image_Jun_7__2026__09_41_55_AM.png" alt="Gulfam Ali - Software Developer Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/gulfam-a1i/myimages/main/uploads/2026/06/43915a_ChatGPT_Image_Jun_7__2026__09_41_55_AM.png" alt="Gulfam Ali - Software Developer Banner" width="100%" />
 
 # Hi 👋, I'm Gulfam Ali
 
