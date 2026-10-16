@@ -199,12 +199,12 @@ A measurement utility application built for practical Android-based measurement 
 
 | Project                   | Tech                | Repository                                                            |
 | ------------------------- | ------------------- | --------------------------------------------------------------------- |
-| App Development Portfolio | Dart / Flutter      | [View Repo](https://github.com/gulfamali16/App-Development-Portfolio) |
-| PromptSnap AI             | Dart / Flutter / AI | [View Repo](https://github.com/gulfamali16/PromptSnap-AI)             |
-| Kisaan AI                 | Dart / Flutter / AI | [View Repo](https://github.com/gulfamali16/kisanai)                   |
-| Muse App                  | App Project         | [View Repo](https://github.com/gulfamali16/Muse-App)                  |
-| Measuremate               | Kotlin              | [View Repo](https://github.com/gulfamali16/Measuremate)               |
-| Tamkeem App               | Dart / Flutter      | [View Repo](https://github.com/gulfamali16/tamkeem_app)               |
+| App Development Portfolio | Dart / Flutter      | [View Repo](https://github.com/gulfam-a1i/App-Development-Portfolio) |
+| PromptSnap AI             | Dart / Flutter / AI | [View Repo](https://github.com/gulfam-a1i/PromptSnap-AI)             |
+| Kisaan AI                 | Dart / Flutter / AI | [View Repo](https://github.com/gulfam-a1i/kisanai)                   |
+| Muse App                  | App Project         | [View Repo](https://github.com/gulfam-a1i/Muse-App)                  |
+| Measuremate               | Kotlin              | [View Repo](https://github.com/gulfam-a1i/Measuremate)               |
+| Tamkeem App               | Dart / Flutter      | [View Repo](https://github.com/gulfam-a1i/tamkeem_app)               |
 
 </details>
 
@@ -213,15 +213,15 @@ A measurement utility application built for practical Android-based measurement 
 
 | Project                   | Tech               | Repository                                                            |
 | ------------------------- | ------------------ | --------------------------------------------------------------------- |
-| Tamkeem Web               | JavaScript         | [View Repo](https://github.com/gulfamali16/tamkeem-web)               |
-| Tamkeem Admin             | JavaScript         | [View Repo](https://github.com/gulfamali16/tamkeem-admin)             |
-| University Alumni Connect | TypeScript         | [View Repo](https://github.com/gulfamali16/university-alumni-connect) |
-| LaunchAI App              | TypeScript         | [View Repo](https://github.com/gulfamali16/launchai-app)              |
-| DevTeam CropMax           | JavaScript         | [View Repo](https://github.com/gulfamali16/devteamcropmax)            |
-| Technox Website           | JavaScript         | [View Repo](https://github.com/gulfamali16/technox-website)           |
-| Dr. Yaseen React          | JavaScript / React | [View Repo](https://github.com/gulfamali16/dr-yaseen-react)           |
-| Meetmind                  | JavaScript / AI    | [View Repo](https://github.com/gulfamali16/Meetmind)                  |
-| VSpark                    | JavaScript / React | [View Repo](https://github.com/gulfamali16/Vspark)                    |
+| Tamkeem Web               | JavaScript         | [View Repo](https://github.com/gulfam-a1i/tamkeem-web)               |
+| Tamkeem Admin             | JavaScript         | [View Repo](https://github.com/gulfam-a1i/tamkeem-admin)             |
+| University Alumni Connect | TypeScript         | [View Repo](https://github.com/gulfam-a1i/university-alumni-connect) |
+| LaunchAI App              | TypeScript         | [View Repo](https://github.com/gulfam-a1i/launchai-app)              |
+| DevTeam CropMax           | JavaScript         | [View Repo](https://github.com/gulfam-a1i/devteamcropmax)            |
+| Technox Website           | JavaScript         | [View Repo](https://github.com/gulfam-a1i/technox-website)           |
+| Dr. Yaseen React          | JavaScript / React | [View Repo](https://github.com/gulfam-a1i/dr-yaseen-react)           |
+| Meetmind                  | JavaScript / AI    | [View Repo](https://github.com/gulfam-a1i/Meetmind)                  |
+| VSpark                    | JavaScript / React | [View Repo](https://github.com/gulfam-a1i/Vspark)                    |
 
 </details>
 
@@ -230,11 +230,11 @@ A measurement utility application built for practical Android-based measurement 
 
 | Project               | Tech              | Repository                                                        |
 | --------------------- | ----------------- | ----------------------------------------------------------------- |
-| Portfolio             | HTML              | [View Repo](https://github.com/gulfamali16/portfolio)             |
-| Portfolio Upgraded    | TypeScript        | [View Repo](https://github.com/gulfamali16/portfolio_upgraded)    |
-| Best README Template  | Markdown          | [View Repo](https://github.com/gulfamali16/Best-README-Template)  |
-| GitHub Image Uploader | HTML / GitHub API | [View Repo](https://github.com/gulfamali16/github-image-uploader) |
-| My Images             | GitHub Storage    | [View Repo](https://github.com/gulfamali16/myimages)              |
+| Portfolio             | HTML              | [View Repo](https://github.com/gulfam-a1i/portfolio)             |
+| Portfolio Upgraded    | TypeScript        | [View Repo](https://github.com/gulfam-a1i/portfolio_upgraded)    |
+| Best README Template  | Markdown          | [View Repo](https://github.com/gulfam-a1i/Best-README-Template)  |
+| GitHub Image Uploader | HTML / GitHub API | [View Repo](https://github.com/gulfam-a1i/github-image-uploader) |
+| My Images             | GitHub Storage    | [View Repo](https://github.com/gulfam-a1i/myimages)              |
 
 </details>
 
@@ -243,7 +243,7 @@ A measurement utility application built for practical Android-based measurement 
 
 | Project              | Tech       | Repository                                                                 |
 | -------------------- | ---------- | -------------------------------------------------------------------------- |
-| AWT Semester Project | TypeScript | [View Repo](https://github.com/gulfamali16/FA23-BSE-030-Gulfam-Ali-SP-AWT) |
+| AWT Semester Project | TypeScript | [View Repo](https://github.com/gulfam-a1i/FA23-BSE-030-Gulfam-Ali-SP-AWT) |
 
 </details>
 
@@ -252,8 +252,8 @@ A measurement utility application built for practical Android-based measurement 
 
 | Project                     | Tech | Repository                                                              |
 | --------------------------- | ---- | ----------------------------------------------------------------------- |
-| VelocityPOS Privacy Policy  | HTML | [View Repo](https://github.com/gulfamali16/velocitypos-privacy-policy)  |
-| Privacy Policy Velocity POS | HTML | [View Repo](https://github.com/gulfamali16/privacy-policy-velocity-pos) |
+| VelocityPOS Privacy Policy  | HTML | [View Repo](https://github.com/gulfam-a1i/velocitypos-privacy-policy)  |
+| Privacy Policy Velocity POS | HTML | [View Repo](https://github.com/gulfam-a1i/privacy-policy-velocity-pos) |
 
 </details>
 
@@ -282,7 +282,7 @@ A measurement utility application built for practical Android-based measurement 
 <br/>
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gulfamali16&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideNums=00FF66&currStreakNum=00FF66" alt="Gulfam Ali GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=gulfam-a1i&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideNums=00FF66&currStreakNum=00FF66" alt="Gulfam Ali GitHub Streak" />
 
 </div>
 
@@ -322,8 +322,8 @@ Video Editing      ████████████
   <img src="https://img.shields.io/badge/Portfolio-www.gulfamali.me-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
 </a>
 
-<a href="https://github.com/gulfamali16" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-gulfamali16-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+<a href="https://github.com/gulfam-a1i" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-gulfam-a1i-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
 <a href="mailto:gulfamoffi62@gmail.com">
@@ -342,6 +342,6 @@ Video Editing      ████████████
 
 ### “Building digital products that solve real problems.”
 
-<img src="https://komarev.com/ghpvc/?username=gulfamali16&label=Profile%20Views&color=00c853&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=gulfam-a1i&label=Profile%20Views&color=00c853&style=for-the-badge" alt="Profile Views" />
 
 </div>
