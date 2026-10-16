@@ -275,9 +275,9 @@ A measurement utility application built for practical Android-based measurement 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gulfamali16&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" alt="Gulfam Ali GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gulfam-a1i&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" alt="Gulfam Ali GitHub Stats" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulfamali16&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Gulfam Ali Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulfam-a1i&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Gulfam Ali Top Languages" />
 
 <br/>
 <br/>
